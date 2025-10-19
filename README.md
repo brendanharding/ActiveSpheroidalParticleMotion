@@ -1,5 +1,7 @@
 # ActiveSpheroidalParticleMotion
 
+[![DOI](https://zenodo.org/badge/1010931728.svg)](https://doi.org/10.5281/zenodo.17393191)
+
 Repository for code associated with our paper on the Hamiltonian formulation of active spheroidal particle motion.
 
 See our preprint on arxiv: https://arxiv.org/abs/2506.11388
