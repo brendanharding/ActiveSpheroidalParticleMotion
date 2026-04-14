@@ -12,4 +12,4 @@ The python_notebooks folder contains several notebooks illustrating how the mode
 
 The c_code folder contains routines for solving the associated variational problem with the classical RK4 method to expedite Lyapunov exponent calculations.
 
-Additionaly code may be made available on request, contact Brendan Harding.
+Additional code may be made available on request, contact Brendan Harding.
